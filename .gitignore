@@ -17,3 +17,7 @@ yarn-error.log
 # CocoaPods
 /ios/Pods/
 /ios/Podfile.lock
+
+# Firebase config files
+/android/app/google-services.json
+/ios/GoogleService-Info.plist
